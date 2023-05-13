@@ -1,0 +1,8 @@
+0 Yellow Leaf Virus
+1 Mosaic Virus
+2 Spider Mites
+3 Septoria Leaf Spot
+4 Leaf Mold
+5 Early Blight
+6 Bacterial Spot
+7 Healthy
